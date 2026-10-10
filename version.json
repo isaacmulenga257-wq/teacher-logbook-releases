@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
-  "buildNumber": 5,
-  "apkUrl": "https://github.com/logbook-s/teacher-logbook-releases/releases/download/v2.0.0/app-release.apk",
-  "sha256": "42634BB723B03E6F7C61C0C986C08678F0DBA69BFD514768EFBDE1CD3503A8D0",
-  "releaseNotes": "Biometric authentication added."
+  "buildNumber": 6,
+  "apkUrl": "https://github.com/logbook-s/teacher-logbook-releases/releases/download/v2.0.0-6/app-release.apk",
+  "sha256": "875a2c26cb390248e51fcd190e16e637c6b44b2cd9a53c16e50800b48b892a1c",
+  "releaseNotes": "Your release notes here."
 }
