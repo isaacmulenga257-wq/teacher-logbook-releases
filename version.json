@@ -3,5 +3,5 @@
   "buildNumber": 6,
   "apkUrl": "https://github.com/logbook-s/teacher-logbook-releases/releases/download/v2.0.0-6/app-release.apk",
   "sha256": "875a2c26cb390248e51fcd190e16e637c6b44b2cd9a53c16e50800b48b892a1c",
-  "releaseNotes": "Your release notes here."
+  "releaseNotes": "Stable GPS and increased security for facial matching."
 }
